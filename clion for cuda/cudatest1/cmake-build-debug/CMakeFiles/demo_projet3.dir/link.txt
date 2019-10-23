@@ -1,1 +1,0 @@
-/usr/bin/c++   -std=c++0x -O3 -ffast-math -Wall -g   CMakeFiles/demo_projet3.dir/main.cpp.o  -o demo_projet3 

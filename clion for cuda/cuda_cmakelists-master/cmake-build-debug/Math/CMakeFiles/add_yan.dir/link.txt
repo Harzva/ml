@@ -1,2 +1,0 @@
-/usr/bin/ar qc libadd_yan.a  CMakeFiles/add_yan.dir/Math.cpp.o CMakeFiles/add_yan.dir/add_yan_generated_add.cu.o
-/usr/bin/ranlib libadd_yan.a

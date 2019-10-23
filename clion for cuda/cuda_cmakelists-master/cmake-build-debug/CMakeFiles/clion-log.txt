@@ -1,4 +1,0 @@
-/home/ubuntu/clion-2017.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ubuntu/cuda_hzh/cuda_cmakelists-master
--- Configuring done
--- Generating done
--- Build files have been written to: /home/ubuntu/cuda_hzh/cuda_cmakelists-master/cmake-build-debug
