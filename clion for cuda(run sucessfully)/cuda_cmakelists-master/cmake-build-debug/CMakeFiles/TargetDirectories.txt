@@ -1,0 +1,6 @@
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/cmake-build-debug/CMakeFiles/Demo.dir
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/cmake-build-debug/Math/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/cmake-build-debug/Math/CMakeFiles/edit_cache.dir
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/cmake-build-debug/Math/CMakeFiles/add_yan.dir

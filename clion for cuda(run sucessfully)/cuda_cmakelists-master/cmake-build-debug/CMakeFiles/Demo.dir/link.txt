@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Demo.dir/main.cpp.o  -o Demo -rdynamic Math/libadd_yan.a -Wl,-Bstatic -lcudart_static -Wl,-Bdynamic -lpthread -ldl -lrt 

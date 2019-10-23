@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x -O3 -ffast-math -Wall -g   CMakeFiles/lbmslv.dir/lbmslv_generated_vectorAdd.cu.o  -o lbmslv -Wl,-rpath,/usr/local/cuda/lib64 /usr/lib/x86_64-linux-gnu/libcudart_static.a -lpthread -ldl /usr/lib/x86_64-linux-gnu/librt.so /usr/local/cuda/lib64/libcudart.so 

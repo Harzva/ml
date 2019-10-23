@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/Math/Math.h
+
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/main.cpp
+Math/Math.h
+/home/ubuntu/cuda_hzh/cuda_cmakelists-master/Math/Math.h
+iostream
+-
+
